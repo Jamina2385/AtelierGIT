@@ -1,2 +1,3 @@
-initial content
-feature change by branch master
+Line 1 (modified)
+Line 2
+Line 3
